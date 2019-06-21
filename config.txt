@@ -3,4 +3,4 @@ prefix=z!
 game=ZeRvX The Best <3  CMD : z!
 stayinchannel=true
 songinstatus=false
-token="NTc0MzI4NDg4NDU1MzA3Mjc5.XQ0LcA.jpuQyhOhNApkHQEdHR1PXjzbtiI"
+token="NTkxNjg5Nzg2NTI4NDk3ODA3.XQ0cfQ.my5bXsuzQ1WUGV1xkC2CONgQ3EM"
