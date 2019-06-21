@@ -1,6 +1,6 @@
 owner=431553115293220876
 prefix=z!
-game=ZeRvX The Best <3
+game=ZeRvX The Best <3  CMD : z!
 stayinchannel=true
 songinstatus=false
 token="NTc0MzI4NDg4NDU1MzA3Mjc5.XQ0LcA.jpuQyhOhNApkHQEdHR1PXjzbtiI"
